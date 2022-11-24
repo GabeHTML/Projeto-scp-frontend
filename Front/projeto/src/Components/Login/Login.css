@@ -1,0 +1,24 @@
+form,.usrpwd {
+    width: 350px;
+    height: 300px;
+    background-color: beige;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 6px solid brown;
+    margin: auto;
+    border-radius: 8px;
+}
+
+h1,p{
+    color: black;
+    background-color: beige;
+}
+
+.botao{
+    border-radius: 8px;
+    background-color: darkblue;
+    color: white;
+}

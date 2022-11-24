@@ -1,0 +1,12 @@
+label{
+    color: #eeeeee;
+}
+
+input{
+    background-color: #252525;
+    border: 1px solid white;
+}
+
+#nome{
+    width:50%;
+}
